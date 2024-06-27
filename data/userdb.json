@@ -1,0 +1,20 @@
+{
+    "User": [
+        {
+          "fname": "Olayinka",
+          "username": "waikay",
+          "password": "1369",
+          "admin": "waikayprint",
+          "id": "fffd"
+        },
+        {
+          "id": "0f91",
+          "fname": "abimbola",
+          "username": "333",
+          "userType": "User",
+          "password": "333",
+          "admincode": "waikayprint",
+          "passcode": ""
+        }
+      ]
+}

@@ -1,0 +1,63 @@
+{
+  "Record": [
+    {
+      "id": "",
+      "date": "20/05/24",
+      "type": "Flex 4",
+      "height": 48,
+      "width": 36,
+      "quantity": 1,
+      "rate": 190,
+      "amount": 2280
+    },
+    {
+      "id": "2d29",
+      "date": "6677",
+      "type": "4ft Flex",
+      "height": 7888,
+      "width": 777,
+      "quantity": 7888,
+      "rate": 7888,
+      "amount": 87888,
+      "note": 888
+    },
+    {
+      "date": "666",
+      "type": "6ft Flex",
+      "height": 6666,
+      "width": 66,
+      "quantity": 666,
+      "rate": 666,
+      "amount": 666,
+      "note": 4444,
+      "id": "97eb"
+    }
+  ],
+  "User": [
+    {
+      "fname": "Olayinka",
+      "username": "waikay",
+      "password": "1369",
+      "admin": "waikayprint",
+      "id": "fffd"
+    },
+    {
+      "id": "0f91",
+      "fname": "abimbola",
+      "username": "333",
+      "userType": "User",
+      "password": "333",
+      "admincode": "waikayprint",
+      "passcode": ""
+    },
+    {
+      "id": "2063",
+      "fname": "7777",
+      "username": "666",
+      "userType": "User",
+      "password": "6666",
+      "admincode": "waikayprint",
+      "passcode": ""
+    }
+  ]
+}
